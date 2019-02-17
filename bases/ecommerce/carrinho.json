@@ -1,0 +1,62 @@
+[
+	{
+	    "idCliente": 1,
+	    "itensPedido": [
+	        {
+	            "prod_id": 3,
+	            "preco": 200.00,
+	            "nomeProduto": "HD Externo"
+	        }
+	    ]
+	},
+	{
+	    "idCliente": 5,
+	    "itensPedido": [
+	        {
+	            "prod_id": 5,
+	            "preco": 2001.00,
+	            "nomeProduto": "Playstation 4"
+	        },
+	        {
+	            "prod_id": 3,
+	            "preco": 200.00,
+	            "nomeProduto": "HD Externo"
+	        }        
+	    ]
+	},
+	{
+	    "idCliente": 3,
+	    "itensPedido": [
+	        {
+	            "prod_id": 6,
+	            "preco": 300.90,
+	            "nomeProduto": "Memória Ram 8Gb"
+	        },
+	        {
+	            "prod_id": 1,
+	            "preco": 49.90,
+	            "nomeProduto": "Pendrive"
+	        }	             
+	    ]
+	},	
+	{
+	    "idCliente": 4,
+	    "itensPedido": [
+	        {
+	            "prod_id": 3,
+	            "preco": 200.00,
+	            "nomeProduto": "HD Externo"
+	        },
+	        {
+	            "prod_id": 4,
+	            "preco": 3021.00,
+	            "nomeProduto": "Smart TV 43 Polegadas"
+	        },
+	        {
+	            "prod_id": 7,
+	            "preco": 1877.00,
+	            "nomeProduto": "Xbox One"
+	        }	             
+	    ]
+	}	
+]

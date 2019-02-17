@@ -1,0 +1,7 @@
+1,Alice,alice@email.com,01/12/1984,BH,MG
+2,Lea,lea@email.com,25/11/1985,BH,MG
+3,Bob,bob@email.com,13/05/1989,BH,MG
+4,Joel,joel@email.com,10/01/1985,BH,MG
+5,Ana,ana@email.com,01/10/1988,BH,MG
+6,Fabio,fabio@email.com,01/10/1978,RJ,RJ
+7,Mariana,mariana@email.com,01/10/1978,SP,SP

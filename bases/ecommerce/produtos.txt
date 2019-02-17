@@ -1,0 +1,7 @@
+1,49.90,Pendrive,Kingston,XK2,Informática
+2,95.00,Cartão Micro SD 128GB,Kingston,KH2,Acessórios Celulares
+3,200.00,HD Externo,Marca XT,Modelo 34,Informática
+4,3021.00,Smart TV 43 Polegadas,LG,ZXT,Televisores
+5,2001.00,Playstation 4,Sony,Slim,Consoles
+6,300.90,Memória Ram 8Gb,Kingston,HHL,Informática
+7,1877.00,Xbox One,Microsoft,One,Consoles
