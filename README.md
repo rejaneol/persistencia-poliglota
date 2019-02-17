@@ -20,4 +20,4 @@ A solução objetiva responder as seguintes perguntas:
 2. Listar dados de um determinado produto passado como consulta. 
 3. Recomendar um produto para um determinado cliente: Para um cliente com o produto A no carrinho, responder a seguinte pergunta: Clientes que compraram o produto A também compraram o produto B, portanto, recomendar o produto B para o cliente. 
 
-O arquivo Trabalho Final NOSQL.pdf dá as instruções sobre como utilizar a solução.
+O arquivo [Trabalho Final NOSQL.pdf]((../) dá as instruções sobre como utilizar a solução.
