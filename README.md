@@ -1,7 +1,7 @@
 # persistencia-poliglota
 Um exercício de uma solução utilizando banco de dados relacionais e não-relacionais.
 
-Projeto em parceria com Tiago Queiroga
+Projeto em parceria com [Tiago Queiroga](https://github.com/tiagoqueiroga)
 
 Este é um pequeno exercício para criar uma solução de persistência poliglota. O enunciado do problema solicita uma solução para  a criação de um e-commerce, que atenda às seguintes especificações:  
 a) Armazenamento de produtos e todas as suas características (atributos distintos)  
